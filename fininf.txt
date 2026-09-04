@@ -1,0 +1,6 @@
+expenses
+bills
+george/not~120.5
+hello/there~120.5
+income
+invest
